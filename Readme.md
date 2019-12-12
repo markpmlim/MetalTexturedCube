@@ -15,5 +15,7 @@ The cube map texture to be used for the 6 faces of the cube is instantiated from
 
 References:
 https://sites.google.com/site/john87connor/texture-object/tutorial-09-5-cube-map
+
 http://metalbyexample.com/up-and-running-3
+
 https://www.raywenderlich.com/976-ios-metal-tutorial-with-swift-part-5-switching-to-metalkit
